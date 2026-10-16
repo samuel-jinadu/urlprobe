@@ -1,0 +1,4 @@
+https://httpbin.org/
+https://httpbin.org/delay/10
+https://gobyexample.com/maps
+https://gobyexample.com/command-line-flags
